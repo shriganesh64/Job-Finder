@@ -1,0 +1,14 @@
+{
+	"staging": {
+		"dbName": "job-finder",
+		"userName": "root",
+		"passWord": "ghack@12345",
+		"hostUrl": "localhost"
+	},
+	"prod": {
+		"dbName": "job-finder",
+		"userName": "root",
+		"passWord": "ghack@12345",
+		"hostUrl": "localhost"
+	}
+}
